@@ -1,0 +1,23 @@
+.main__buttons {
+    padding: 20px;
+    text-align: end;
+}
+
+.button_ {
+
+    &blue {
+        background-color: #b6daf9;
+        color: #fff;
+        width: 80px;
+        height: 30px;
+        border-style: none;
+    }
+
+    &red {
+        background-color: #ff4f7f;
+        color: #fff;
+        width: 80px;
+        height: 30px;
+        border-style: none;
+    }
+}
